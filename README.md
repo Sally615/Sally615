@@ -1,6 +1,6 @@
 ## Hi, I'm Sally 👋
 
-TikTok / 字节跳动数据科学家，UW Foster MSIS 在读
+前 TikTok / 字节跳动数据科学家，现 UW Foster MSIS 在读
 
 I spent five years as a data scientist at ByteDance and TikTok, working across experimentation platforms, causal inference, and product analytics. I care about measurement done right: experiments people can trust, metrics that mean something, and analyses that actually change what ships. These days I'm finishing my MSIS at UW Foster, researching human-AI collaboration, and building small things with coding agents.
 
@@ -10,15 +10,8 @@ I spent five years as a data scientist at ByteDance and TikTok, working across e
 
 ---
 
-## 🆕 New: Tarot Understanding App
-
-A bilingual tarot reference I built for myself: all 78 cards with Work / Life / Love meanings and reversed notes, my own relationship spreads, and a follow-up question space that answers from the cards you draw.
-
----
-
 ## ⭐ Featured projects
 
-🎴 **tarot-understanding-app** — Bilingual tarot reference + spreads + follow-up Q&A, built with a coding agent
 📖 **the-cutover-app** — Bilingual reading companion for Tayfun Keskin's novel *The Cutover*: 14 chapter cards, 17 character cards, a 7-beat plot timeline
 🌐 **portfolio-site** — My personal site: Work / Education / Life, one page, one scroll
 
