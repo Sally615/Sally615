@@ -31,7 +31,7 @@ What five years at TikTok / ByteDance taught me, in practice:
 ## 🌱 Currently
 
 - 🎓 M.S. in Information Systems, UW Foster (expected June 2027)
-- 🔬 Research, Human-AI Operations Lab (Prof. Léonard Boussioux)
+- 🔬 Research, Human-AI Operations Lab
 - 🏛️ GPSS Senator for the Foster Specialty Masters program
 - 🎯 Job search: senior-level Data Scientist roles, starting March 2027
 
