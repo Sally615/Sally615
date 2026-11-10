@@ -1,6 +1,6 @@
 ## Hi, I'm Sally 👋
 
-前 TikTok / 字节跳动数据科学家，现 UW Foster MSIS 在读
+TikTok / 字节跳动数据科学家，UW Foster MSIS 在读
 
 I spent five years as a data scientist at ByteDance and TikTok, working across experimentation platforms, causal inference, and product analytics. I care about measurement done right: experiments people can trust, metrics that mean something, and analyses that actually change what ships. These days I'm finishing my MSIS at UW Foster, researching human-AI collaboration, and building small things with coding agents.
 
