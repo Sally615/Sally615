@@ -10,12 +10,6 @@ I spent five years as a data scientist at ByteDance and TikTok, working across e
 
 ---
 
-## ⭐ Featured projects
-
-🌐 **portfolio-site** — My personal site: Work / Education / Life, one page, one scroll
-
----
-
 ## 📊 Data Science & Experimentation
 
 What five years at TikTok / ByteDance taught me, in practice:
