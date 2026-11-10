@@ -10,6 +10,12 @@ I spent five years as a data scientist at ByteDance and TikTok, working across e
 
 ---
 
+## ⭐ Featured projects
+
+- **[Personal Website](https://sally615.github.io/portfolio-site/)** — My single-page portfolio: work, education, and life beyond work. ([Source](https://github.com/Sally615/portfolio-site))
+
+---
+
 ## 📊 Data Science & Experimentation
 
 What five years at TikTok / ByteDance taught me, in practice:
