@@ -12,7 +12,6 @@ I spent five years as a data scientist at ByteDance and TikTok, working across e
 
 ## ⭐ Featured projects
 
-📖 **the-cutover-app** — Bilingual reading companion for Tayfun Keskin's novel *The Cutover*: 14 chapter cards, 17 character cards, a 7-beat plot timeline
 🌐 **portfolio-site** — My personal site: Work / Education / Life, one page, one scroll
 
 ---
